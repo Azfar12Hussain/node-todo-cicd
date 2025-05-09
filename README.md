@@ -1,2 +1,19 @@
 # node-todo-cicd
-This is a Node js ToDo App
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
